@@ -1,7 +1,7 @@
 - My name is Makary Bardowski, i started programming at 15,
 currently studying computer science at Polish Naval Academy
-- I’m interested in programming, fashion, artificial intelligence and indie gamedev
-- I’m currently learning java (swing, jmonkey engine, android studio), c++ (VScode), blender
+- I’m interested in programming, fashion,algortihms (my favourite is A*), artificial intelligence and indie gamedev
+- I’m currently learning java (swing, jmonkey engine, android studio, IntelliJ), c++ (VScode), blender
 - You can check out my work on: 
 
 <!---
