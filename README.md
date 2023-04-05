@@ -13,7 +13,7 @@ Visualization of output data from a sonar submerged in a rectangular pool
 ![App Screenshot](https://i.imgur.com/kpDfeUe.png)
 Interactive demonstration of naval vessel navigation system using RRT algorithm 
 
-![App Screenshot](https://i.imgur.com/xcUaIbd.png)
+![App Screenshot]([https://i.imgur.com/xcUaIbd.png](https://imgur.com/a/MvCK7MX))
 3D dungeon crawler game
 
 
