@@ -2,7 +2,7 @@
 - My name is Makary Bardowski, I started programming at 15,
 currently studying computer science at Polish Naval Academy
 - I’m interested in algortihms used in robotics, artificial intelligence, indie gamedev, fashion and 3d modelling.
-- I’m currently learning java (swing library, multithreading, jmonkey engine, android studio, IntelliJ), c++ (VScode), blender
+- I’m currently learning java (Spring boot, Multithreading [core], assembly [x86/64 architecture])
 
 ## Screenshots of my work
 Here are some screenshots of my most recent works, all of which are written in Java using JmonkeyEngine
