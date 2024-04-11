@@ -1,6 +1,6 @@
 ## 🤖 About Me
-- My name is Makary Bardowski, have started programming at 15,
-currently finishing my 2nd year of computer science at Polish Naval Academy
+- My name is Makary Bardowski, have started programming at 13,
+currently finishing my 3rd year of computer science at Polish Naval Academy
 - I’m interested in algortihms used in robotics, artificial intelligence, indie gamedev, fashion and 3d modelling.
 - I’m currently learning java (Spring boot, Multithreading [core], assembly [x86/64 architecture])
 
